@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Martin-dev7201
-- 👀 I’m interested in codage and drum
+- 👀 I’m interested in codage, drum and bass
 - 🌱 I’m currently learning python, javscript and html
-- 📫 How to reach me witch my e-mail
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me witch my e-mail, my instagram Marty_drms
+
 
 <!---
 Martin-dev7201/Martin-dev7201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
