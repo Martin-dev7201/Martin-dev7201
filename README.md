@@ -2,7 +2,7 @@
 
 🎓 High school student passionate about tech, video games, theater, and music.  
 🥁 Drummer for 9 years and 🎸 beginner bassist (but rocking with motivation).  
-💻 Currently learning **HTML, CSS, and JavaScript**, and aiming to become a **cybersecurity engineer** to work with the army.  
+💻 Currently learning **HTML, CSS, Python, and JavaScript**, and aiming to become a **cybersecurity engineer** to work with the army.  
 
 ---
 
