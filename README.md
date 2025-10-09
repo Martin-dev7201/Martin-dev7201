@@ -7,8 +7,9 @@
 ---
 
 ## ⚡ Things I love  
-- 🎮 Video games (always up for an epic RPG quest or a competitive challenge)  
-- 🎬 Cinema & theater (3 years on stage, from punk roles to crazy knights)  
+- 🎮 Video games (The Wither3, Baldur's Gate III, Death Stranding, Halo, Doom, ...)  
+- 🎬 Cinema & theater (3 years on stage, from punk roles to crazy knights)
+- 🧙🏻‍♂ i'm a new player and game master in D&D 
 - 🎶 Rock’n’roll:  
    * Red Hot Chili Peppers
    * Damocles  
@@ -29,7 +30,8 @@
 ## 🚀 What I’m learning now  
 - 🌐 HTML / CSS to create stylish websites  
 - ⚙️ JavaScript to bring projects to life  
-- 🔒 Cybersecurity (because protecting the world is even cooler than hacking it 😎)  
+- 🔒 Cybersecurity (because protecting the world is even cooler than hacking it 😎)
+- 🐍 Language Python in school  
 
 ---
 
