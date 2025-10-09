@@ -7,7 +7,7 @@
 ---
 
 ## ⚡ Things I love  
-- 🎮 Video games (The Wither3, Baldur's Gate III, Death Stranding, Halo, Doom, ...)  
+- 🎮 Video games (The Wither3,Warhammer 40k: Space Marine II, Baldur's Gate III, Death Stranding, Halo, Doom, ...)  
 - 🎬 Cinema & theater (3 years on stage, from punk roles to crazy knights)
 - 🧙🏻‍♂ i'm a new player and game master in D&D 
 - 🎶 Rock’n’roll:  
