@@ -29,9 +29,9 @@
 
 ## 🚀 What I’m learning now  
 - 🌐 HTML / CSS to create stylish websites  
-- ⚙️ JavaScript to bring projects to life  
+- ⚙️ JavaScript to bring projects to life
+- 🐍 Language Python in school    
 - 🔒 Cybersecurity (because protecting the world is even cooler than hacking it 😎)
-- 🐍 Language Python in school  
 
 ---
 
